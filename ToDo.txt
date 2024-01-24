@@ -1,11 +1,12 @@
 TODO
 
-Transfer backend - 
-	Two Moos
+- Transfer backend - 
+	legal review
+
+Meet with Droo/jake
+     monday
 
 External IT - no response
-
-X Credit card
 
 VO - NEXT WEEK
 	Identify the stuff you need (which games?)  	Run Names by Legal? 
@@ -14,9 +15,6 @@ VO - NEXT WEEK
 	Everything but Rai is fair game.
 
 Website
-	X Holly, SOW - website
-	X Process contract
-	X Kick-off
 	Default COPY for website - Stakeholders - Momo, Kristin, Nick
 
 Redo Schedule
@@ -28,12 +26,11 @@ REDO VFT 3 + 1
 	VFT3, Implement based on VO and Text we have.
 	VFT 1, Remix + transfer to new software.
 	VFT2, finalize design/quotes, implement.
- Avatar Maker  	See https://docs.google.com/document/d/1CJKDZnf0QdfvF7Por2613N6F_mbrvA7VcQxGSqZ1RBs/edit 
+
+Avatar Maker See https://docs.google.com/document/d/1CJKDZnf0QdfvF7Por2613N6F_mbrvA7VcQxGSqZ1RBs/edit 
 	Explore adding the save hook immediately after you get your first avatar. 
 	Have the skip button appear w/o timer?
 	Quiz Clipart Updated to show… beeples? 
-
-	X Cam - 3 games
 
 Rebuild Mash with Mayor game
 
@@ -48,19 +45,8 @@ Final Bundles? - Next week.
 	Plan pack go (Organize)
 	Mayor game
 
-* FOCUS
-* REMEMBER
+	* FOCUS
+	* REMEMBER
 
 	Can’t use 
 		Feel - Works of Heart
-
-X Github
-	X Chris etc - Thursday
-	X Filament, 
-
-
-X - SEND EMAIL TO CHRIS
-	X - Follow up with GITHUB art swap
-
-X - SEND EMAIL TO HOLLY
-	x - Start Contract!
