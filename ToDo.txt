@@ -1,14 +1,24 @@
-TODO
+TODO 
 
-- Transfer backend - 
-	legal review
+Redo Schedule
+	Review Charlie’s updates
 
-Meet with Droo/jake
-     monday
+- CHARLIE QA of the website
 
-External IT - no response
+Hero Elementary Games app
+	not compliant with google, what do?
 
-VO - NEXT WEEK
+Transfer backend - 
+	Waiting for Legal 
+
+X Contact Field Day - plants o plenty redux
+
+X Contact Filament - 2 games?
+
+Two Moos - health game?
+
+
+VO  	Samples - NEXT WEEK
 	Identify the stuff you need (which games?)  	Run Names by Legal? 
 	Spanish	
 	Review Avatar Maker 
@@ -17,17 +27,11 @@ VO - NEXT WEEK
 Website
 	Default COPY for website - Stakeholders - Momo, Kristin, Nick
 
-Redo Schedule
-	Review Charlie’s updates
-
-- CHARLIE QA of the website
-
 REDO VFT 3 + 1
 	VFT3, Implement based on VO and Text we have.
 	VFT 1, Remix + transfer to new software.
 	VFT2, finalize design/quotes, implement.
-
-Avatar Maker See https://docs.google.com/document/d/1CJKDZnf0QdfvF7Por2613N6F_mbrvA7VcQxGSqZ1RBs/edit 
+ Avatar Maker  	See https://docs.google.com/document/d/1CJKDZnf0QdfvF7Por2613N6F_mbrvA7VcQxGSqZ1RBs/edit 
 	Explore adding the save hook immediately after you get your first avatar. 
 	Have the skip button appear w/o timer?
 	Quiz Clipart Updated to show… beeples? 
@@ -45,8 +49,10 @@ Final Bundles? - Next week.
 	Plan pack go (Organize)
 	Mayor game
 
-	* FOCUS
-	* REMEMBER
+* FOCUS
+* REMEMBER
 
 	Can’t use 
 		Feel - Works of Heart
+
+External IT - no response
