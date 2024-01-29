@@ -5,32 +5,28 @@ Redo Schedule
 
 - CHARLIE QA of the website
 
-Hero Elementary Games app
-	not compliant with google, what do?
-
 Transfer backend - 
-	Waiting for contract 
+	Waiting for docs
 
-meet with Field Day - plants o plenty redux
+Games
+	Run Names by Legal?
+	Get Scott on-board?
+	Two Moos - health game?
+	Filament - 2 games - six and glitch
+	Field Day - plantshop redux
 
-meet with Filament - 2 games?
+Subgroup
+	Set up Meeting for Digital, make sure you know what’s on the schedule
 
-Two Moos - health game?
-
-respond to Chris 
-
-review applicants 
-
-VO  	Samples
-	Identify the stuff you need (which games?)
-    post sound-alikes
- Run Names by Legal? 
-	Spanish	
+VO  	Samples - Are in
+	Identify the stuff you need (which games?)  	Spanish	
 	Review Avatar Maker 
-	
+	Everything but Rai is fair game.
 
 Website
 	Default COPY for website - Stakeholders - Momo, Kristin, Nick
+	Craft cms is clear
+	Set up pipeline - craft cms in docker
 
 REDO VFT 3 + 1
 	VFT3, Implement based on VO and Text we have.
@@ -59,5 +55,12 @@ Final Bundles? - Next week.
 
 	Can’t use 
 		Feel - Works of Heart
+		Move computer and dev
 
-External IT - no response
+External IT
+	New response for Friday
+
+***Back Burner***
+
+Hero Elementary Games app
+	not compliant with google, what do?
