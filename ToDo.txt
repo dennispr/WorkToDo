@@ -1,29 +1,26 @@
 TODO 
 
-External IT
-	Send Invite for Friday
+!PBS Kids - Work on gdd for sfx
 
-add notes to the digital notes doc
+!Check applicants
 
-Ask for site permisions
+Transfer backend
+	Meeting tomorrow
 
-Redo Schedule
+Add notes to the digital notes doc
+
+Two moos - Low end device test
+
+Fillament - Get device specs to Pattie
+	Blocked. Waiting on Shannon to get clearance / send updated.
+	Get Laura Cleared on springroll.
+
+Charlie - Redo Schedule
 	Review Charlie’s updates
+	-CHARLIE QA of the website
 
-Work on gdd for sfx
-
-Add privo docs
-
-check applicants
-
-Send email to Shannon
-	Get pattie device specs
-	follow up with getting charlie access to the producer docs.
-
--CHARLIE QA of the website
-
-Transfer backend - 
-	Waiting for docs
+Check timeline for Privo
+	Add privo docs
 
 Games
 	Run Names by Legal?
@@ -42,8 +39,7 @@ VO 	Samples - Are in
 
 Website
 	Default COPY for website - Stakeholders - Momo, Kristin, Nick
-	Craft cms is clear
-	Set up pipeline - craft cms in docker
+	Meeting 1/31
 
 REDO VFT 3 + 1
 	VFT3, Implement based on VO and Text we have.
@@ -57,6 +53,7 @@ Avatar Maker 	See https://docs.google.com/document/d/1CJKDZnf0QdfvF7Por2613N6F_m
 
 Rebuild Mash with Mayor game
 
+***Blocked***
 Final Bundles? - Next week.
 	Focus, remember, organize, think differently 
 		(Focus, Think differently, remember)
@@ -68,14 +65,17 @@ Final Bundles? - Next week.
 	Plan pack go (Organize)
 	Mayor game
 
-* FOCUS
-* REMEMBER
-
+	* FOCUS
+	* REMEMBER
 	Can’t use 
 		Feel - Works of Heart
 		Move computer and dev
 
+
 ***Back Burner***
+
+Hero Elementary Static Website
+	Game links are broken
 
 Hero Elementary Games app
 	not compliant with google, what do?
