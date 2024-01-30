@@ -1,7 +1,9 @@
 TODO 
 
 External IT
-	Send Invite
+	Send Invite for Friday
+
+add notes to the digital notes doc
 
 Ask for site permisions
 
