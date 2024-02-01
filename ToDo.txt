@@ -4,15 +4,17 @@ TODO
 
 !Check applicants
 
-Transfer backend
-	Meeting tomorrow
+Contact David for follow up field day dev.
 
-Add notes to the digital notes doc
+Transfer backend
+    set up meeting for the 12-16th
+    sign up with new account 
+
+Add notes to the digital notes doc???
 
 Two moos - Low end device test
 
 Fillament - Get device specs to Pattie
-	Blocked. Waiting on Shannon to get clearance / send updated.
 	Get Laura Cleared on springroll.
 
 Charlie - Redo Schedule
@@ -39,7 +41,7 @@ VO 	Samples - Are in
 
 Website
 	Default COPY for website - Stakeholders - Momo, Kristin, Nick
-	Meeting 1/31
+	wait for wireframes
 
 REDO VFT 3 + 1
 	VFT3, Implement based on VO and Text we have.
