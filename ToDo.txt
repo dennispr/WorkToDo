@@ -2,27 +2,27 @@ TODO
 
 !PBS Kids - Work on gdd for sfx
 
-!Check applicants
-
-Contact David for follow up field day dev.
+Field day
+   Wait for follow up.
 
 Transfer backend
-    set up meeting for the 12-16th
+    wait for transfer - 2/13?
     sign up with new account 
 
 Add notes to the digital notes doc???
 
 Two moos - Low end device test
 
-Fillament - Get device specs to Pattie
+Fillament
 	Get Laura Cleared on springroll.
 
 Charlie - Redo Schedule
 	Review Charlie’s updates
 	-CHARLIE QA of the website
 
-Check timeline for Privo
+!Check timeline for Privo
 	Add privo docs
+ get partner code to them?
 
 Games
 	Run Names by Legal?
