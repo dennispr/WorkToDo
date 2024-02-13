@@ -2,16 +2,17 @@
 
 TODO 
 
-get website sow to Jess to process as a contract 
+Wait for website contract/new wireframe round
 
 !PBS Kids - Work on gdd for sfx
 
 Field day
-   Wait for follow up.
+-wait for sow from David
+-work on gdd
 
 Transfer backend
-    wait for transfer - 2/13?
-    sign up with new account 
+-set up multi factor
+-talk to Lee, remove other accounts 
 
 Add notes to the digital notes doc???
 
