@@ -7,27 +7,28 @@ Wait for website contract/new wireframe round
 !PBS Kids - Work on gdd for sfx
 
 Field day
--wait for sow from David
--work on gdd
+*wait for sow from David
+*work on gdd
+
+next steps for hiring another person
 
 Transfer backend
--set up multi factor
--talk to Lee, remove other accounts 
+*set up multi factor
+*talk to Lee, remove other accounts 
 
 Add notes to the digital notes doc???
 
 Two moos - Low end device test
 
 Fillament
-	Get Laura Cleared on springroll.
+*Get Laura Cleared on springroll.
 
 Charlie - Redo Schedule
-	Review Charlie’s updates
-	-CHARLIE QA of the website
+*Review Charlie’s updates
+*CHARLIE QA of the website
 
 !Check timeline for Privo
-	Add privo docs
- get partner code to them?
+*Add privo docs
 
 Games
 	Run Names by Legal?
