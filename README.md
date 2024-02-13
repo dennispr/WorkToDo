@@ -39,14 +39,15 @@ Games
 Subgroup
 	Set up Meeting for Digital, make sure you know what’s on the schedule
 
-VO 	Samples - Are in
-	Identify the stuff you need (which games?) 	Spanish	
-	Review Avatar Maker 
-	Everything but Rai is fair game.
+VO 	Samples
+    start recruiting 
+    Spanish	- use AI
+
+!Rebuild Avatar Maker
 
 Website
 	Default COPY for website - Stakeholders - Momo, Kristin, Nick
-	wait for wireframes
+	wait for second round of wireframes 
 
 REDO VFT 3 + 1
 	VFT3, Implement based on VO and Text we have.
