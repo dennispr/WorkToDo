@@ -3,6 +3,7 @@
 TODO 
 
 # Website
+* ! follow up with Holly - signed sow
 * process sow
 * Default COPY for website - Stakeholders - Momo, Kristin, Nick
 * comments second round of wireframes 
