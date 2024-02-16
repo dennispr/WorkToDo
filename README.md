@@ -2,8 +2,11 @@
 
 TODO 
 
+# VO Samples
+* start recruiting 
+* Spanish - use AI
+
 # Website
-* ! follow up with Holly - signed sow
 * process sow
 * Default COPY for website - Stakeholders - Momo, Kristin, Nick
 * comments second round of wireframes 
@@ -16,12 +19,15 @@ TODO
 
 # hiring another person
 * see hr notes
+* Add bryce to this
 
 # Backend
 * set up multi factor
-* talk to Lee, remove other accounts 
+* talk to Lee, remove other accounts
+* Next round of updates should include age gate
+* Have the skip avatarMaker button appear w/o timer?
 
-# Add notes to the digital notes doc??? - what Drop said etc
+# Add notes to the digital notes doc??? - what Droo said etc
 
 # Two moos - Low end device test
 
@@ -32,26 +38,18 @@ TODO
 * Review Charlie’s updates
 * CHARLIE QA of the website
 
-# !Check timeline for Privo
-* Add privo docs?
+# Privo
+* Wait for new docs, fill out and share.
 
 # Games
-	Run Names by Legal?
-	Get Scott on-board?
-	Two Moos - health game?
-	Filament - 2 games - six and glitch
-	Field Day - plantshop redux
+* Run Names by Legal?
+* Get Scott on-board?
+* Two Moos - health game?
+* Filament - 2 games - six and glitch
+* Field Day - plantshop redux
 
 # Subgroup
 * Set up Meeting for Digital, make sure you know what’s on the schedule
-
-# VO 	Samples
-    start recruiting 
-    Spanish	- use AI
-
-# Avatar Maker
-* verify audio is hooked up
-* additional 2 guides
 
 # REDO VFT 3 + 1
 	VFT3, Implement based on VO and Text we have.
@@ -59,10 +57,10 @@ TODO
 	VFT2, finalize design/quotes, implement.
 
 # Avatar Maker 	
-See https://docs.google.com/document/d/1CJKDZnf0QdfvF7Por2613N6F_mbrvA7VcQxGSqZ1RBs/edit 
-	Explore adding the save hook immediately after you get your first avatar. 
-	Have the skip button appear w/o timer?
-	Quiz Clipart Updated to show… beeples? 
+* See todo https://docs.google.com/document/d/1CJKDZnf0QdfvF7Por2613N6F_mbrvA7VcQxGSqZ1RBs/edit 
+* Explore adding the save hook immediately after you get your first avatar. 
+* Quiz Clipart Updated to show… beeples?
+* additional 2 guides
 
 # Rebuild Mash with Mayor game
 
@@ -74,10 +72,8 @@ Final Bundles? - Next week.
 	Inspect and sketch ()
 	Plants - o - plenty (remember)
 	Food Scientist (Think
-
-	Plan pack go (Organize)
+ 	Plan pack go (Organize)
 	Mayor game
-
 	* FOCUS
 	* REMEMBER
 	Can’t use 
