@@ -1,17 +1,16 @@
 # WorkToDo
 
-TODO 
-
 # VO Samples
 * start recruiting 
 * Spanish - use AI
 
-# Website
+# Website - Curious Media
 * process sow
 * Default COPY for website - Stakeholders - Momo, Kristin, Nick
 * comments second round of wireframes 
 
-# !PBS Kids - Work on gdd for sfx
+# !PBS Kids 
+* Work on gdd for sfx - https://drive.google.com/drive/folders/1XXtjwUyA6aNpPAckky3-TmR9mDJUJmQg
 
 # Field day
 * wait for sow from David
