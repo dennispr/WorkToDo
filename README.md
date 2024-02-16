@@ -11,7 +11,7 @@ TODO
 * Default COPY for website - Stakeholders - Momo, Kristin, Nick
 * comments second round of wireframes 
 
-#!PBS Kids - Work on gdd for sfx
+# !PBS Kids - Work on gdd for sfx
 
 # Field day
 * wait for sow from David
@@ -21,15 +21,14 @@ TODO
 * see hr notes
 * Add bryce to this
 
-# Backend
+# Two Moos - Backend
 * set up multi factor
 * talk to Lee, remove other accounts
 * Next round of updates should include age gate
 * Have the skip avatarMaker button appear w/o timer?
+* Low end device test
 
 # Add notes to the digital notes doc??? - what Droo said etc
-
-# Two moos - Low end device test
 
 # Filament
 * Get Laura Cleared on springroll.
