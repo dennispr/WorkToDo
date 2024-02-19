@@ -9,6 +9,9 @@
 * Default COPY for website - Stakeholders - Momo, Kristin, Nick
 * comments second round of wireframes 
 
+# SMM - KIOSK
+* Check in meeting
+
 # !PBS Kids 
 * Work on gdd for sfx - https://drive.google.com/drive/folders/1XXtjwUyA6aNpPAckky3-TmR9mDJUJmQg
 
