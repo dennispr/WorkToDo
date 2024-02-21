@@ -5,12 +5,11 @@
 * Spanish - use AI
 
 # Website - Curious Media
-* process sow
+* wait for counter-signed contract
 * Default COPY for website - Stakeholders - Momo, Kristin, Nick
-* comments second round of wireframes 
 
 # SMM - KIOSK
-* Check in meeting
+* Check in meeting 2/29
 
 # !PBS Kids 
 * Work on gdd for sfx - https://drive.google.com/drive/folders/1XXtjwUyA6aNpPAckky3-TmR9mDJUJmQg
@@ -20,8 +19,8 @@
 * work on gdd
 
 # hiring another person
-* see hr notes
-* Add bryce to this
+* follow up with hr notes
+* Add bryce to this?
 
 # Two Moos - Backend
 * set up multi factor
@@ -33,6 +32,7 @@
 # Add notes to the digital notes doc??? - what Droo said etc
 
 # Filament
+* follow up on extension/amendment
 * Get Laura Cleared on springroll.
 
 # Charlie - Redo Schedule
