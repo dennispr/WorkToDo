@@ -1,5 +1,8 @@
 # WorkToDo
 
+# atsc antenna
+* set up meeting with Kristin, etc
+
 # VO Samples
 * start recruiting 
 * Spanish - use AI
@@ -12,15 +15,15 @@
 * Check in meeting 2/29
 
 # !PBS Kids 
-* Work on gdd for sfx - https://drive.google.com/drive/folders/1XXtjwUyA6aNpPAckky3-TmR9mDJUJmQg
+* Wait for feedback for - https://drive.google.com/drive/folders/1XXtjwUyA6aNpPAckky3-TmR9mDJUJmQg
 
 # Field day
 * wait for sow from David
 * work on gdd
 
 # hiring another person
-* follow up with hr notes
-* Add bryce to this?
+* Read hr notes
+* Set up meeting
 
 # Two Moos - Backend
 * set up multi factor
@@ -40,7 +43,7 @@
 * CHARLIE QA of the website
 
 # Privo
-* Wait for new docs, fill out and share.
+* Docs, fill out and share.
 
 # Games
 * Run Names by Legal?
@@ -58,6 +61,7 @@
 	VFT2, finalize design/quotes, implement.
 
 # Avatar Maker 	
+* Send new screenshots of bounding boxes for each component to Chris.
 * See todo https://docs.google.com/document/d/1CJKDZnf0QdfvF7Por2613N6F_mbrvA7VcQxGSqZ1RBs/edit 
 * Explore adding the save hook immediately after you get your first avatar. 
 * Quiz Clipart Updated to show… beeples?
