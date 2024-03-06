@@ -30,7 +30,7 @@
 * Explore adding the save hook immediately after you get your first avatar. 
 * Quiz Clipart Updated to show… beeples?
 
-## Waiting
+## ** Waiting
 
 # SMM - KIOSK
 * wait for next round of review
@@ -74,7 +74,7 @@
 # ebooks
 * help Charlie set up engine.
 
-## Blocked
+## ** Blocked
 
 # REDO VFT 3 + 1
 *	VFT3, Implement based on VO and Text we have.
