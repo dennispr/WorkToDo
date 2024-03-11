@@ -8,13 +8,11 @@
 * Spanish - use AI
 
 # !PBS Kids
-* Send gdd
 * Ask for SOW
 * Ask for clarification over prototype
 * Wait for feedback for - https://drive.google.com/drive/folders/1XXtjwUyA6aNpPAckky3-TmR9mDJUJmQg
 
 # Field day
-* respond to David
 * wait for sow from David
 * work on gdd
 
