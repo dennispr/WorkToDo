@@ -13,17 +13,19 @@
 * Wait for feedback for - https://drive.google.com/drive/folders/1XXtjwUyA6aNpPAckky3-TmR9mDJUJmQg
 
 # Field day
+* walk through with Charlie
 * wait for sow from David
 * work on gdd
 
 # hiring another person
-* Attend interviews 
+* arrive at work
+* send notes.
 
 # Privo
 * Docs, fill out and respond?
 
 # Avatar Maker 	
-* Send new screenshots of bounding boxes for body type 3 and 4 to Chris.
+* Send feedback about body types.
 * See todo https://docs.google.com/document/d/1CJKDZnf0QdfvF7Por2613N6F_mbrvA7VcQxGSqZ1RBs/edit 
 * Explore adding the save hook immediately after you get your first avatar. 
 * Quiz Clipart Updated to show… beeples?
@@ -31,16 +33,16 @@
 ## ** Waiting
 
 # SMM - KIOSK
-* wait for next round of review
+* update font
 
 # Website - Curious Media
-* next round if color / final updates
+* drop-down question 
 * Default COPY for website - Stakeholders - Momo, Kristin, Nick
 
 # Game Polish
-* Wait for two moos to finish work on save states
 * recompile Mayor game
 * recompile pack plan go
+* etc etc
 * update all VO
 
 # Two Moos - Backend
@@ -52,7 +54,7 @@
 # Add notes to the digital notes doc??? - what Droo said etc
 
 # Filament
-* follow up on extension/amendment
+* follow up on extension/amendment contract?
 * Get Laura Cleared on springroll.
 
 # Charlie
@@ -67,7 +69,7 @@
 * Field Day - plantshop redux
 
 # Subgroup
-* Attend meeting and set up next steps
+* write up notes, send to Jess
 
 # ebooks
 * help Charlie set up engine.
