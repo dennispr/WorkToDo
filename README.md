@@ -8,7 +8,7 @@
 * Spanish - use AI
 
 # !PBS Kids
-* Ask for SOW
+* SOW due tomorrow
 * Ask for clarification over prototype
 * Wait for feedback for - https://drive.google.com/drive/folders/1XXtjwUyA6aNpPAckky3-TmR9mDJUJmQg
 
@@ -24,8 +24,7 @@
 # Privo
 * Docs, fill out and respond?
 
-# Avatar Maker 	
-* Send feedback about body types.
+# Avatar Maker
 * See todo https://docs.google.com/document/d/1CJKDZnf0QdfvF7Por2613N6F_mbrvA7VcQxGSqZ1RBs/edit 
 * Explore adding the save hook immediately after you get your first avatar. 
 * Quiz Clipart Updated to show… beeples?
