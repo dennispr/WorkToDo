@@ -6,6 +6,8 @@
 # VO Samples
 * start recruiting 
 * Spanish - use AI
+* vo call post secsndo week of April need word count 
+* cast by end of April
 
 # !PBS Kids
 * SOW due tomorrow
