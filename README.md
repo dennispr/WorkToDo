@@ -11,17 +11,15 @@
 
 # !PBS Kids
 * SOW due tomorrow
-* Ask for clarification over prototype
-* Wait for feedback for - https://drive.google.com/drive/folders/1XXtjwUyA6aNpPAckky3-TmR9mDJUJmQg
+* placeholder for docs HERE
 
 # Field day
 * walk through with Charlie
 * wait for sow from David
 * work on gdd
 
-# hiring another person
-* arrive at work
-* send notes.
+# New Hire
+* set up 1:1s for Remy
 
 # Privo
 * Docs, fill out and respond?
@@ -30,14 +28,15 @@
 * See todo https://docs.google.com/document/d/1CJKDZnf0QdfvF7Por2613N6F_mbrvA7VcQxGSqZ1RBs/edit 
 * Explore adding the save hook immediately after you get your first avatar. 
 * Quiz Clipart Updated to show… beeples?
+* Body type 4
+
+# SMM - KIOSK
+* delivery soon!
 
 ## ** Waiting
 
-# SMM - KIOSK
-* update font
-
 # Website - Curious Media
-* drop-down question 
+* newsletter info.
 * Default COPY for website - Stakeholders - Momo, Kristin, Nick
 
 # Game Polish
@@ -55,7 +54,6 @@
 # Add notes to the digital notes doc??? - what Droo said etc
 
 # Filament
-* follow up on extension/amendment contract?
 * Get Laura Cleared on springroll.
 
 # Charlie
@@ -73,7 +71,7 @@
 * write up notes, send to Jess
 
 # ebooks
-* help Charlie set up engine.
+* help Charlie set up engine on git hub
 
 ## ** Blocked
 
