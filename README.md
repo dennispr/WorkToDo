@@ -34,7 +34,8 @@
 * Body type 4
 
 # SMM - KIOSK
-* delivery soon!
+* windows 11 computer 
+* delivery soon! April 8th
 
 ## ** Waiting
 
