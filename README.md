@@ -71,9 +71,6 @@
 * Filament - 2 games - sfx and glitch?
 * Field Day - plantshop redux
 
-# Subgroup
-* write up notes, send to Jess
-
 # ebooks
 * help Charlie set up engine on git hub
 
