@@ -13,7 +13,7 @@
 * cast by end of April
 
 # !PBS Kids
-* SOW due tomorrow
+* 
 * placeholder for docs HERE
 
 # Field day
