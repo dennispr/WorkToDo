@@ -1,4 +1,4 @@
-# respon to character sketch
+# respond to character sketch
 
 
 # WorkToDo
