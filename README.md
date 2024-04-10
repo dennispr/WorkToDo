@@ -1,5 +1,4 @@
-# respond to character sketch
-
+# respond to character sketch *April 25th*
 
 # WorkToDo
 
@@ -7,7 +6,7 @@
 * follow up with this - set up meeting with Kristin, etc
 
 # VO Samples
-* start recruiting 
+* start recruiting *this week*
 * Spanish - use AI
 * vo call post secsndo week of April need word count 
 * cast by end of April
