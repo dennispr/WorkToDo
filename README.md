@@ -12,16 +12,15 @@
 * cast by end of April
 
 # !PBS Kids
-* 
+* pitch game 2. send new meeting
+* talk with Charlie about new game design game and glitch game
 * placeholder for docs HERE
 
 # Field day
+* pitch to PBS kids
 * walk through with Charlie
 * wait for sow from David
 * work on gdd
-
-# New Hire
-* set up 1:1s for Remy
 
 # Privo
 * Docs, fill out and respond?
@@ -33,12 +32,10 @@
 * Body type 4
 
 # SMM - KIOSK
-* windows 11 computer 
-* delivery soon! April 8th
-
-## ** Waiting
+* set up hotspot for SMM
 
 # Website - Curious Media
+* beta delivery soon
 * newsletter info.
 * Default COPY for website - Stakeholders - Momo, Kristin, Nick
 
@@ -62,6 +59,7 @@
 # Charlie
 * Review Charlie’s updates
 * CHARLIE QA of the website
+* review goals with Charlie 
 
 # Upcoming Games
 * Run Names by Legal?
@@ -72,6 +70,7 @@
 
 # ebooks
 * help Charlie set up engine on git hub
+* clear ebook stuff with momo
 
 ## ** Blocked
 
