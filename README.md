@@ -23,7 +23,7 @@
 * work on gdd
 
 # Privo
-* Docs, fill out and respond?
+* wait for next meeting
 
 # Avatar Maker
 * See todo https://docs.google.com/document/d/1CJKDZnf0QdfvF7Por2613N6F_mbrvA7VcQxGSqZ1RBs/edit 
