@@ -1,5 +1,3 @@
-# respond to character sketch *April 25th*
-
 # WorkToDo
 
 # atsc antenna
@@ -8,13 +6,13 @@
 # VO Samples
 * start recruiting *this week*
 * Spanish - use AI
-* vo call post secsndo week of April need word count 
-* cast by end of April
+* waiting for scout vo
+* next vo actors
 
 # !PBS Kids
-* pitch game 2. send new meeting
+* new meeting with David
+* plantahop pitch worked, might be 2 or 3
 * talk with Charlie about new game design game and glitch game
-* placeholder for docs HERE
 
 # Field day
 * pitch to PBS kids
@@ -23,13 +21,13 @@
 * work on gdd
 
 # Privo
-* wait for next meeting
+* Nexteeting tomorrow 
 
 # Avatar Maker
 * See todo https://docs.google.com/document/d/1CJKDZnf0QdfvF7Por2613N6F_mbrvA7VcQxGSqZ1RBs/edit 
 * Explore adding the save hook immediately after you get your first avatar. 
 * Quiz Clipart Updated to show… beeples?
-* Body type 4
+* Hair
 
 # SMM - KIOSK
 * set up hotspot for SMM
@@ -53,8 +51,11 @@
 
 # Add notes to the digital notes doc??? - what Droo said etc
 
-# Filament
-* Get Laura Cleared on springroll.
+# Filament - teaching
+* continued development 
+
+# Filament - sfx
+# kick off ongoing
 
 # Charlie
 * Review Charlie’s updates
