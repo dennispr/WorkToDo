@@ -4,33 +4,43 @@
 * follow up with this - set up meeting with Kristin, etc
 
 # VO Samples
-* start recruiting *this week*
+* Cut audio, give as resources 
 * Spanish - use AI
-* waiting for scout vo
+* hire the person, get them the VO
 * next vo actors
 
 # !PBS Kids
-* new meeting with David
-* plantahop pitch worked, might be 2 or 3
+* David says good
+* Charlie GDD
+* Game 3 - health
 * talk with Charlie about new game design game and glitch game
 
 # Field day
-* pitch to PBS kids
-* walk through with Charlie
 * wait for sow from David
 * work on gdd
 
 # Privo
-* Nexteeting tomorrow 
+* Waiting for update - age gate
+* Kids account 
 
 # Avatar Maker
 * See todo https://docs.google.com/document/d/1CJKDZnf0QdfvF7Por2613N6F_mbrvA7VcQxGSqZ1RBs/edit 
 * Explore adding the save hook immediately after you get your first avatar. 
 * Quiz Clipart Updated to show… beeples?
+* Icons for hair, color correction 
 * Hair
 
 # SMM - KIOSK
-* set up hotspot for SMM
+* add subtitles 
+* swap icons
+* add vo
+
+# Filament - teaching
+* continued development 
+
+# Filament - sfx
+# kick off ongoing
+# first deliverable
 
 # Website - Curious Media
 * beta delivery soon
@@ -50,12 +60,6 @@
 * Low end device test
 
 # Add notes to the digital notes doc??? - what Droo said etc
-
-# Filament - teaching
-* continued development 
-
-# Filament - sfx
-# kick off ongoing
 
 # Charlie
 * Review Charlie’s updates
