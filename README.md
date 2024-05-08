@@ -39,8 +39,8 @@
 * continued development 
 
 # Filament - sfx
-# kick off ongoing
-# first deliverable
+* kick off ongoing
+* first deliverable
 
 # Website - Curious Media
 * beta delivery soon
