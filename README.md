@@ -4,10 +4,9 @@
 * follow up with this - set up meeting with Kristin, etc
 
 # VO Samples
-* Cut audio, give as resources 
 * Spanish - use AI
 * hire the person, get them the VO
-* next vo actors
+* next vo actors (vog? scout 2)
 
 # !PBS Kids
 * David says good
