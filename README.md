@@ -20,7 +20,6 @@
 
 # Privo
 * Waiting for update - age gate
-* Kids account 
 
 # Avatar Maker
 * See todo https://docs.google.com/document/d/1CJKDZnf0QdfvF7Por2613N6F_mbrvA7VcQxGSqZ1RBs/edit 
@@ -30,16 +29,15 @@
 * Hair
 
 # SMM - KIOSK
-* add subtitles 
-* swap icons
-* add vo
+* edit subtitles
+* update videos as they come.
 
 # Filament - teaching
 * continued development 
 
 # Filament - sfx
-* kick off ongoing
-* first deliverable
+* script coming up
+* prototype coming up
 
 # Website - Curious Media
 * beta delivery soon
@@ -60,11 +58,6 @@
 
 # Add notes to the digital notes doc??? - what Droo said etc
 
-# Charlie
-* Review Charlie’s updates
-* CHARLIE QA of the website
-* review goals with Charlie 
-
 # Upcoming Games
 * Run Names by Legal?
 * Get Scott on-board?
@@ -73,7 +66,7 @@
 * Field Day - plantshop redux
 
 # ebooks
-* help Charlie set up engine on git hub
+* update engine on git hub
 * clear ebook stuff with momo
 
 ## ** Blocked
