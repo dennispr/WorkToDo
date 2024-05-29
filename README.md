@@ -15,8 +15,8 @@
 * talk with Charlie about new game design game and glitch game
 
 # Field day
-* wait for sow from David
-* work on gdd
+* wait for cost
+* submit gdd
 
 # Privo
 * Waiting for update - age gate
