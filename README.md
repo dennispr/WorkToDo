@@ -7,6 +7,7 @@
 * Spanish - use AI
 * hire the person, get them the VO
 * next vo actors (vog? scout 2)
+* Follow up VO with Sergio
 
 # !PBS Kids
 * David says good
@@ -15,11 +16,13 @@
 * talk with Charlie about new game design game and glitch game
 
 # Field day
-* wait for cost
-* submit gdd
+* Wait for SOW
+* review with PBS kids
+* contract
 
 # Privo
 * Waiting for update - age gate
+* reply
 
 # Avatar Maker
 * See todo https://docs.google.com/document/d/1CJKDZnf0QdfvF7Por2613N6F_mbrvA7VcQxGSqZ1RBs/edit 
