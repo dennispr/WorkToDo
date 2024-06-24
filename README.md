@@ -36,11 +36,11 @@
 * update videos as they come.
 
 # Filament - teaching
-* continued development 
+* continued development
+* Beta update and notes
 
 # Filament - sfx
-* script coming up
-* prototype coming up
+* prototype coming up / due 
 
 # Website - Curious Media
 * beta delivery soon
